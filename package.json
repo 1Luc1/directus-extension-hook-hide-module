@@ -21,7 +21,8 @@
 	"scripts": {
 		"build": "directus-extension build",
 		"dev": "directus-extension build -w --no-minify",
-		"link": "directus-extension link"
+		"link": "directus-extension link",
+		"validate": "directus-extension validate"
 	},
 	"devDependencies": {
 		"@directus/extensions-sdk": "11.0.8"
