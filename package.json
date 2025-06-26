@@ -3,6 +3,7 @@
 	"description": "Please enter a description for your extension",
 	"icon": "extension",
 	"version": "1.0.0",
+	"license": "GPL-3.0",
 	"keywords": [
 		"directus",
 		"directus-extension",
