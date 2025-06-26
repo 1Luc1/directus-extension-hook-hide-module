@@ -26,6 +26,6 @@
 		"validate": "directus-extension validate"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "11.0.8"
+		"@directus/extensions-sdk": "14.0.0"
 	}
 }
